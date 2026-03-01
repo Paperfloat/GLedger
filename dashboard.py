@@ -8,7 +8,7 @@ from typing import List, Dict, Any, Optional
 import plotly.express as px
 import plotly.graph_objects as go
 
-PAGE_TITLE = "GreenLedger - Carbon Accountability"
+PAGE_TITLE = "GLedger - Carbon Accountability"
 PAGE_ICON = "🌱"
 LAYOUT = "wide"
 
