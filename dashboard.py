@@ -145,7 +145,7 @@ def init_page():
 
 def sidebar():
     """Create sidebar controls"""
-    st.sidebar.title("🌱 GreenLedger")
+    st.sidebar.title("🌱 GLedger")
     st.sidebar.markdown("---")
     
     # Refresh control
@@ -428,7 +428,7 @@ def main():
     controls = sidebar()
     
     # Main title
-    st.title(f"{PAGE_ICON} GreenLedger - Carbon Accountability")
+    st.title(f"{PAGE_ICON} GLedger - Carbon Accountability")
     st.markdown("Real-time carbon compliance monitoring for industrial facilities")
     st.markdown("---")
     
